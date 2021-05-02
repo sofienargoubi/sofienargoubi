@@ -49,8 +49,17 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" alt="sofienargoubi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sofienargoubi&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+    <img align="left" alt="sofienargoubi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofienargoubi&layout=compact" />
+</a>
+
+
+ 
 
 </details>
 

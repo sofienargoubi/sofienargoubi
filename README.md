@@ -47,12 +47,11 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
 
   <img align="left" alt="sofienargoubi's GitHub Stats" src="https://github-readme-stats.sofienargoubi.vercel.app/api?username=sofienargoubi&show_icons=true&hide_border=true" />
 
-</details>
+
 
 
 

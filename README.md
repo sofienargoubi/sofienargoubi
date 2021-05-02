@@ -77,7 +77,7 @@
 
 [linkedin]: https://www.linkedin.com/in/sofien-argoubi-b7154b184/
 [facebook]: https://www.facebook.com/neifos.argoubi
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]:
-[reactplaylist]:
+[webdevplaylist]:#
+[jsplaylist]:#
+[cssplaylist]:#
+[reactplaylist]:#

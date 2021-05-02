@@ -47,14 +47,12 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofienargoubi&repo=MyLibrary" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sofienargoubi" />
-</a>
+  <img align="left" alt="sofienargoubi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sofienargoubi&show_icons=true&hide_border=true" />
 
+</details>
 
 
 [linkedin]: https://www.linkedin.com/in/sofien-argoubi-b7154b184/

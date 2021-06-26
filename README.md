@@ -30,7 +30,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/sofienargoubi) 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/sofienargoubi) 
-[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron)](https://github.com/sofienargoubi) 
+
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)](https://github.com/sofienargoubi) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)](https://github.com/sofienargoubi) 
 
@@ -41,13 +41,13 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/sofienargoubi) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/sofienargoubi) 
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket)](https://github.com/sofienargoubi) 
+
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)](https://github.com/sofienargoubi) 
 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)](https://github.com/sofienargoubi) 
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)](https://github.com/sofienargoubi) 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)](https://github.com/sofienargoubi) 
-[![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx)](https://github.com/sofienargoubi) 
+
 
 ---
 

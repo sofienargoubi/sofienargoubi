@@ -20,43 +20,34 @@
 
 <br />
 <br />
-### Languages and Tools:
-<br />
+### 👨‍💻 Languages and Tools
+
 <br />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/bootstrap/bootstrap.png" />][webdevplaylist]
-[<img align="left" alt="wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/wordpress/wordpress.png" />][webdevplaylist]
-[<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
-[<img align="left" alt="symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />][webdevplaylist]
-[<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][webdevplaylist]
-[<img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/dotnet/dotnet.png" />][webdevplaylist]
-[<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/csharp/csharp.png" />][webdevplaylist]
-[<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][webdevplaylist]
-[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/java/java.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-<br />
-<br />
-[<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/cpp/cpp.png" />][webdevplaylist]
-[<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/c/c.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][webdevplaylist]
-[<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-<br />
-<br />
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/sofienargoubi) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/sofienargoubi) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/sofienargoubi) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/sofienargoubi) 
+
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/sofienargoubi) 
+[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron)](https://github.com/sofienargoubi) 
+[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)](https://github.com/sofienargoubi) 
+[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)](https://github.com/sofienargoubi) 
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://github.com/sofienargoubi) 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://github.com/sofienargoubi) 
+[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)](https://github.com/sofienargoubi) 
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)](https://github.com/sofienargoubi) 
+
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/sofienargoubi) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/sofienargoubi) 
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket)](https://github.com/sofienargoubi) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)](https://github.com/sofienargoubi) 
+
+[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)](https://github.com/sofienargoubi) 
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)](https://github.com/sofienargoubi) 
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)](https://github.com/sofienargoubi) 
+[![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx)](https://github.com/sofienargoubi) 
 
 ---
 

@@ -5,13 +5,23 @@
 
 
 
-## I'm Developer, and Student!!
+## 📖 About me
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Play Football and play Video Games
+* 💻 I'm a full stack web developer
+* 🎨 I'm a self-taught UI designer
+* 📱 I make apps for Android and iOS
+* 🎓 I'm a software engineer student (graduating in july 2022)
 
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/sofienargoubi/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofienargoubi#version3"/>
+  </a>
+</p>
+
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/sofienargoubi?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 ### Connect with me:
 

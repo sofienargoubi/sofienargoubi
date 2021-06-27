@@ -9,8 +9,8 @@
 
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
 * 🎓 I'm a software engineer student (graduating in july 2022)
+* 💬 Ask me about: anything, I am happy to help
 
 ## 🔥 My contribution streak
 
@@ -25,14 +25,18 @@
 
 ### Connect with me:
 
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/sofien-argoubi-b7154b184"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.facebook.com/neifos.argoubi"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>&nbsp;
 
+</p>
 
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Argoubi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-<br />
-<br />
+
 ### 👨‍💻 Languages and Tools
 
 <br />

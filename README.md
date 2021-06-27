@@ -24,7 +24,7 @@
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/sofienargoubi?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
-### Connect with me:
+## 🤝 Connect with me:
 
 <p align="center">
 <br>

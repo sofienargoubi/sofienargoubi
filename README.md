@@ -16,18 +16,6 @@
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/sofienargoubi" alt="profile views"> •  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/sofienargoubi?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/sofienargoubi?label=Stars" alt="Total Stars">
-</p>
-<p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%sofienargoubi" alt="Github Profile Score">
-  </code>
-</p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=sofienargoubi&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/sofienargoubi)
-
-<p align="center">
   <a href="https://github.com/sofienargoubi/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofienargoubi#version3"/>
   </a>

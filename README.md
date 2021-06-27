@@ -32,9 +32,6 @@
 
 </p>
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Argoubi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 
 ### 👨‍💻 Languages and Tools
@@ -70,20 +67,15 @@
   <summary>:zap: GitHub Stats</summary>
   
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img align="left" alt="sofienargoubi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sofienargoubi&show_icons=true&hide_border=true" />
-</a>
 
 
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofienargoubi&count_private=true&theme=radical" alt="Jas-Script" />
 
  
 
 </details>
 
 
-[linkedin]: https://www.linkedin.com/in/sofien-argoubi-b7154b184/
-[facebook]: https://www.facebook.com/neifos.argoubi
-[webdevplaylist]:#
-[jsplaylist]:#
-[cssplaylist]:#
-[reactplaylist]:#
+

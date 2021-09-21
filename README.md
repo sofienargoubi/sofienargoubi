@@ -40,6 +40,7 @@
 <br />
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/sofienargoubi) 
+[![java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=java)](https://github.com/sofienargoubi) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/sofienargoubi) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/sofienargoubi) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/sofienargoubi) 

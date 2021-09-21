@@ -56,7 +56,7 @@
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)](https://github.com/sofienargoubi) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)](https://github.com/sofienargoubi) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/sofienargoubi) 
-
+[![laravel](https://img.shields.io/badge/-Laravel-fb503b?style=flat&logo=laravel)](https://github.com/sofienargoubi) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/sofienargoubi) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)](https://github.com/sofienargoubi) 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)](https://github.com/sofienargoubi) 

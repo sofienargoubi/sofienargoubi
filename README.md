@@ -49,6 +49,7 @@
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)](https://github.com/sofienargoubi) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://github.com/sofienargoubi) 
 [![php](https://img.shields.io/badge/-php-8993be?style=flat&logo=php)](https://github.com/sofienargoubi) 
+[![springboot](https://img.shields.io/badge/-springboot-green?style=flat&logo=springboot)](https://github.com/sofienargoubi) 
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://github.com/sofienargoubi) 
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)](https://github.com/sofienargoubi) 
@@ -59,6 +60,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)](https://github.com/sofienargoubi) 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)](https://github.com/sofienargoubi) 
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)](https://github.com/sofienargoubi) 
+[![symfony](https://img.shields.io/badge/-symfony-000000?style=flat&logo=symfony)](https://github.com/sofienargoubi) 
 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)](https://github.com/sofienargoubi) 
 

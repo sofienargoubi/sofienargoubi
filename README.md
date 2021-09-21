@@ -48,7 +48,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)](https://github.com/sofienargoubi) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)](https://github.com/sofienargoubi) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://github.com/sofienargoubi) 
-[![php](https://img.shields.io/badge/-php-green?style=flat&logo=php)](https://github.com/sofienargoubi) 
+[![php](https://img.shields.io/badge/-php-8993be?style=flat&logo=php)](https://github.com/sofienargoubi) 
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://github.com/sofienargoubi) 
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)](https://github.com/sofienargoubi) 

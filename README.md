@@ -38,7 +38,7 @@
 ## 👨‍💻 Languages and Tools
 
 <br />
-<p align="center">
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/sofienargoubi) 
 [![java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=java)](https://github.com/sofienargoubi) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/sofienargoubi) 
@@ -66,7 +66,7 @@
 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)](https://github.com/sofienargoubi) 
 
-</p>
+
 ---
 
 

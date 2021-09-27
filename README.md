@@ -28,7 +28,7 @@
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/sofien-argoubi-b7154b184"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/argoubi-sofien"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.facebook.com/neifos.argoubi"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>&nbsp;
 
 </p>

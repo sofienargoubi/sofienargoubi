@@ -9,7 +9,7 @@
 
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI designer
-* 🎓 I'm a software engineer student (graduating in july 2022)
+* 🎓 I'm a software engineer
 * 💬 Ask me about: anything, I am happy to help
 
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sofien)
